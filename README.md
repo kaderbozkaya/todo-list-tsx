@@ -1,3 +1,3 @@
-# React + TypeScript + Vite + Redux
+# React + TypeScript + Vite + Redux Toolkit
 
 
